@@ -1,0 +1,22 @@
+{
+  "name": "arsample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hzywind/arsample.git"
+  },
+  "keywords": [
+    "AR"
+  ],
+  "author": "Wind Hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hzywind/arsample/issues"
+  },
+  "homepage": "https://github.com/hzywind/arsample#readme"
+}
